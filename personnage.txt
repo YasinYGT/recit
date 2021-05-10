@@ -1,0 +1,27 @@
+class: mage noir
+race : gros pain
+age:30 
+couleur de peau: noir
+prénom:vincent
+talent: manieur de ukulélé niveau maitre, invoquer cthulhu, éternument du chaos (Fus Ro Dah).
+description faciale:énorme nez 
+métier : youtuber beauter (1 abonner,sa mère)
+passe temps: aime manger des cactus
+animale préfére: poulet
+tail: 1m30 
+poids: 45kg
+
+
+
+class:roi du sel
+race :rageu
+age:27
+couleur de peau:rouge
+prénom:sardoche
+talent: grand sense de la communication (pour crier sur les autres)
+description faciale : tout rouge les veines qui resorte, de la merde dans les yeux
+métier :youtuber
+passe temps: rager, déboiter sa table, 
+animale préfére:giraphe
+tail:1m70
+poids:60kg
